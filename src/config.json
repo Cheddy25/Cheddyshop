@@ -68,7 +68,7 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "Tastatur",
+          "categoryLabel": " ",
           "submenu": [
             {
               "menuLabel": "Mäuse",
@@ -79,7 +79,7 @@
               "menuLink": "/shop"
             },
             {
-              "menuLabel": " ",
+              "menuLabel": "Tastaturen",
               "menuLink": "/shop"
             },
             {
