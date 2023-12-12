@@ -75,32 +75,32 @@
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "Heasets",
+              "menuLabel": "Headsets",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": " ",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": " ",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
