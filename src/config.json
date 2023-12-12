@@ -104,24 +104,24 @@
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "pants",
+              "menuLabel": " ",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": " ",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "",
               "menuLink": "/shop"
             }
           ]
